@@ -4,7 +4,7 @@
     <title>Welcome to my first project</title>
     </head>
     <body bgcolor="White">
-    <table border="1" align="center" bgcolor="LIMEGreen">
+    <table border="1" align="center" bgcolor="NAVYblue">
     <tr>
     <td>User Name</td>
     <td><input typr="text"></td>
