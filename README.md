@@ -1,7 +1,7 @@
 <html>
     <head>
     <body>
-    <title>Welcome to Infusionsoft Intranet</title>
+    <title>Welcome to my first project</title>
     </head>
     <body bgcolor="White">
     <table border="1" align="center" bgcolor="LIMEGreen">
